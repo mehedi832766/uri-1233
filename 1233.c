@@ -18,19 +18,7 @@ int main()
             //sscanf(s, "%d", &n2);
 
 
-            /*if(s[0]==s[2])
-            {
-                printf("%d\n",n2*n1);
-            }
-            else if(s[1]>='a'&&s[1]<='z')
-            {
-                printf("%d\n",n2+n1);
-            }
-
-            else if(s[1]>='A'&&s[1]<='Z')
-            {
-                printf("%d\n",n2-n1);
-            }*/
+           
             i++;
         }
 
